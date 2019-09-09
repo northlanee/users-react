@@ -1,0 +1,23 @@
+* {
+    font-family: 'Manjari', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+    background: linear-gradient(
+        to left,
+        rgba(7,27,82,1),
+        rgba(0,128,128,1)
+    );
+}
+
+.app {
+    text-align: center;
+}
+
+.title {
+    text-transform: uppercase;
+    color: white;
+}
